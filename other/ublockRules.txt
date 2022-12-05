@@ -1,4 +1,25 @@
 ! 2022-08-28 https://www.mfsft.com 免费私房图-使用必要规则
+# --------------------------------------------
+#          ◆ S E N G L U T Y 1 9 8 ◆
+# --------------------------------------------
+#
+#
+# --------------------------------------------
+# P A C K  D E T A I L S
+# --------------------------------------------
+# Title: GoodbyeAds-AdBlock-Filter
+# Description: Blocks Ads.Trackers.Analytics.Malware.
+# Format: filter
+# Entries: 248682
+# License: MIT, https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
+# Updated: Nov 08 11:32:31 GMT+05:30 2022
+# Source: https://github.com/jerryn70/GoodbyeAds
+# Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
+# --------------------------------------------
+#
+# --------------------------------------------
+# S E N G L U T Y 1 9 8
+# ------------------------------------------
 /https?:\/\/js\.(.*mnt|.*ywt|.*sf(\w){0,3}t|.*mzt|.*wht|.*taotu|.*xzt|.*xzw|.*meinv|.*tuku|.*tuk|(?!.*umei).*meitu|.*youwu)\.com\/(icc|js\/touchb|css|vdn\/([rp]||top)\d*.js)/
 
 ! 2022/8/28 https://www.248m.cc
